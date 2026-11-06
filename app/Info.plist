@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!-- Shown by macOS the first time indiff opens Terminal to start Claude Code. -->
+  <key>NSAppleEventsUsageDescription</key>
+  <string>indiff opens iTerm2 or Terminal to start Claude Code on the findings you choose.</string>
+</dict>
+</plist>
